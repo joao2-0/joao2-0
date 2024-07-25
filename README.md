@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil   🙂
 
-<!--
-**joao2-0/joao2-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é João Gabriel Catano Vaz 
 
-Here are some ideas to get you started:
+- Estudo no [Alura](https://www.alura.com.br)
+- Estou dessenvolendo um projeto com a linguagem javaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Caso queira entrar em contao comigo 
+
+📫 kokelijolojistu@gmail.com
+
+ ☎️ 44 99739-0877
+
+
+ ![](https://media1.tenor.com/m/WQeBp2mBllwAAAAC/gif.gif)
